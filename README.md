@@ -17,4 +17,4 @@
 
 ### ❤️ Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pyfs&show_icons=true&theme=vue&hide_border=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=pyfs&show_icons=true&theme=vue&hide_title=true)
