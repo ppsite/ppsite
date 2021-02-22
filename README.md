@@ -1,10 +1,7 @@
 ## Python Full Stack Developping 👋
 ---
+
 #### 🛠 Tech Stack and Tools
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pyfs&show_icons=true&theme=vue&hide_border=true">
-
 
 | End | Stack |
 | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,3 +14,7 @@
 [gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
 [gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
 [gcw]: https://github.com/arvinxx/gitmoji-commit-workflow
+
+### ❤️ Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pyfs&show_icons=true&theme=vue&hide_border=true&hide_title=true)
